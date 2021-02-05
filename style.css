@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(247, 80, 80);
+}
+
+#title {
+  background-color: rgba(165, 7, 7, 0.658);
+  font-size: 100px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+  font-weight: bold;
+}
+
+#weekndPic {
+  height: 70%;
+  width: 70%;
+  padding-left: 25%;
+}
+
+#info {
+  background-color: rgba(165, 7, 7, 0.658);
+  color: white;
+}
+
+.info {
+  background-color: rgba(165, 7, 7, 0.658);
+  ;
+}
+
+.infotitle {
+  font-size: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.accordion-body {
+  color: white;
+}
+
+.card-body {
+  background-color: rgba(165, 7, 7, 0.658);
+}
+
+.card{
+  display: inline-block;
+  
+}
+
+
